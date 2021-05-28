@@ -1,0 +1,1 @@
+g++  -std=c++17 -pthread main.cpp -o ram -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio && ./ram $2 $3 $4
